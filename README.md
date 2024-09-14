@@ -1,5 +1,5 @@
 ## 👋😎 Hi, I’m @kntt32
-Hello, Freestanding!
+Hello, World
 
 <!---
 kntt32/kntt32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
