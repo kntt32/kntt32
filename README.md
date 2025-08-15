@@ -1,5 +1,13 @@
-## 👋😎 Hi, I’m @kntt32
-Hello, World
+## Hi, I’m @kntt32
+Hello, World!!!
+
+### My main works
+- [as-macro](https://github.com/kntt32/as-macro) : rust like high level assembler
+- [as-os](https://www.github.com/kntt32/as-os) : (asmacro + Rust) | fijua-os = as-os
+- [Fijua-OS](https://github.com/kntt32/Fijua-OS) : Fijua is just a uefi app [ProtoPedia](https://protopedia.net/prototype/5674)
+- [ziputl](https://github.com/kntt32/ziputl) : A Swift package of ZIP Utility Library build with only Swift Playgrounds App on iPad
+- [SurarueN](https://github.com/kntt32/SurarueN) : Neural Network written by Rust
+- [10App](https://github.com/kntt32/10App) : School festival scoreing management system and Web Server written by Rust
 
 <!---
 kntt32/kntt32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
