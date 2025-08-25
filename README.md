@@ -20,6 +20,7 @@ I'm a low-lavel programmer. I develop OS kernels, Rust-like assembler, and Swift
 
 ### My main works
 - [as-macro](https://github.com/kntt32/as-macro) : rust like high level assembler
+- [Rexify](https://www.github.com/kntt32/rexify): trait-driven matcher library for Rust. [crates.io](https://crates.io/crates/rexify)
 - [carbon-simd](https://www.github.com/kntt32/carbon-simd) : simd crate for fularuen. [crates.io](https://crates.io/crates/carbon-simd)
 - [Fijua-OS](https://github.com/kntt32/Fijua-OS) : Fijua is just a uefi app. [ProtoPedia](https://protopedia.net/prototype/5674)
 - [ziputl](https://github.com/kntt32/ziputl) : A Swift package of ZIP Utility Library build with only Swift Playgrounds App on iPad
