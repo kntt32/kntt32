@@ -16,6 +16,7 @@ I'm a low-lavel programmer. I develop OS kernels, Rust-like assembler, and Swift
 
 ### Main projects
 - [as-os](https://www.github.com/kntt32/as-os) : (asmacro + Rust) | fijua-os = as-os
+- ferrum & magnetite
 
 ### My main works
 - [as-macro](https://github.com/kntt32/as-macro) : rust like high level assembler
