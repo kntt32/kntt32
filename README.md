@@ -15,11 +15,11 @@ I'm a low-lavel programmer. I develop OS kernels, Rust-like assembler, and Swift
 - Nadesiko3
 
 ### Main projects
-- [as-os](https://www.github.com/kntt32/as-os) : (asmacro + Rust) | fijua-os = as-os
+- [as-macro](https://github.com/kntt32/as-macro) : rust like high level assembler
 - ferrum & magnetite
+- [as-os](https://www.github.com/kntt32/as-os) : (asmacro + Rust) | fijua-os = as-os
 
 ### My main works
-- [as-macro](https://github.com/kntt32/as-macro) : rust like high level assembler
 - [Fijua-OS](https://github.com/kntt32/Fijua-OS) : Fijua is just a uefi app. [ProtoPedia](https://protopedia.net/prototype/5674)
 - [ziputl](https://github.com/kntt32/ziputl) : A Swift package of ZIP Utility Library build with only Swift Playgrounds App on iPad
 - [SurarueN](https://github.com/kntt32/SurarueN) : Neural Network written by Rust
