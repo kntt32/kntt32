@@ -16,7 +16,7 @@ I'm a low-lavel programmer. I develop OS kernels, Rust-like assembler, and Swift
 
 ### Main projects
 - [as-macro](https://github.com/kntt32/as-macro) : rust like high level assembler
-- ferrum & magnetite : A browser, a rendering engine and dns and http client abide by WHATWG HTML living standard and CSS 2.0 written by safe Rust
+- [ferrum](https://github.com/kntt32/ferrum) : A browser, a rendering engine and dns and http client abide by WHATWG HTML living standard and CSS 2.0 written by safe Rust
 - [as-os](https://www.github.com/kntt32/as-os) : (asmacro + Rust) | fijua-os = as-os
 
 ### My main works
