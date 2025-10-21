@@ -11,6 +11,8 @@ I'm a low-lavel programmer. I develop OS kernels, Rust-like assembler, and Swift
 - as-macro
 - Rust
 - Swift
+- Golang
+- Typescript (Deno)
 - HTML/Javascript/CSS
 - Nadesiko3
 
@@ -22,7 +24,7 @@ I'm a low-lavel programmer. I develop OS kernels, Rust-like assembler, and Swift
 ### My main works
 - [Fijua-OS](https://github.com/kntt32/Fijua-OS) : Fijua is just a uefi app. [ProtoPedia](https://protopedia.net/prototype/5674)
 - [ziputl](https://github.com/kntt32/ziputl) : A Swift package of ZIP Utility Library build with only Swift Playgrounds App on iPad
-- [SurarueN](https://github.com/kntt32/SurarueN) : Neural Network written by Rust
+- [as-cad](https://github.com/kntt32/as-cad) : A web-based declarative CAD.
 - [10App](https://github.com/kntt32/10App) : School festival scoring management system and Web Server written by Rust
 
 ### Contacts
