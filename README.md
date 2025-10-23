@@ -26,6 +26,7 @@ I'm a low-lavel programmer. I develop OS kernels([Fijua-OS](https://github.com/k
 
 ### My main works
 - [Fijua-OS](https://github.com/kntt32/Fijua-OS) : Fijua is just a uefi app. [ProtoPedia](https://protopedia.net/prototype/5674)
+- [FularueN](https://github.com/kntt32/FullarueN) : Homemade neural network library for classification.
 - [ziputl](https://github.com/kntt32/ziputl) : A Swift package of ZIP Utility Library build with only Swift Playgrounds App on iPad
 - [as-cad](https://github.com/kntt32/as-cad) : A web-based declarative 3D-CAD.
 - [10App](https://github.com/kntt32/10App) : School festival scoring management system and Web Server written by Rust
